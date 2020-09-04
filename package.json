@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "dependencies": {
     "google-play-scraper" : "^4.0.0",
-    "mongodb": "^2.2.33"
+    "mongodb": "^3.6.1"
   }
 }
 
